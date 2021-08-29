@@ -1,4 +1,6 @@
-Hi, I’m @razanmdr, interested in Data and currently learning Python 😉
+Hi, I’m @razanmdr, interested in Data Analyst and Data Science.
+
+Learning Python is fun 😉
 
 <!---
 razanmdr/razanmdr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
