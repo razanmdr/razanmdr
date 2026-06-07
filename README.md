@@ -64,11 +64,11 @@ Data · BI · Quality Engineer — Jena, Deutschland 🇩🇪
 
 | Zeitraum | Unternehmen | Position |
 |---|---|---|
-| 2024 – 2026 | **Neue Technologie AG** | Application & Software Quality Engineer *(Werkstudent)* |
-| 2024 | **JENOPTIK AG** | Business Intelligence Engineer *(Bachelorand)* |
-| 2023 – 2024 | **JENOPTIK AG** | IT-Support & Digitalisierung *(Werkstudent)* |
-| 2022 – 2023 | **Siemens Energy** | Application Management & Software QA *(Werkstudent)* |
-| 2021 | **PT. Halotec Indonesia** | R&D Software Developer *(Praktikant / Intern)* |
+| 12.2024 – 01.2026 | **Neue Technologie AG** | Application & Software Quality Engineer *(Werkstudent)* |
+| 04.2024 - 10.2024 | **JENOPTIK AG** | Business Intelligence Engineer *(Bachelorand)* |
+| 11.2023 – 04.2024 | **JENOPTIK AG** | IT-Support & Digitalisierung *(Werkstudent)* |
+| 06.2022 – 10.2023 | **Siemens Energy** | Application Management & Software QA *(Werkstudent)* |
+| 04.2021 - 11.2021 | **PT. Halotec Indonesia** | R&D Software Developer *(Praktikant / Intern)* |
 
 ---
 
@@ -78,29 +78,29 @@ Data · BI · Quality Engineer — Jena, Deutschland 🇩🇪
 
 | Projekt | Beschreibung | Stack |
 |---|---|---|
-| [🏗️ Retail Data Pipeline — Walmart](https://github.com/razanmdr/Data-Engineering) | End-to-end data pipeline for E-Commerce analysis at Walmart | Python · SQL · ETL |
-| [⚡ ETL Pipeline — Dept. of Energy](https://github.com/razanmdr/Data-Engineering) | ETL pipeline for U.S. government energy data | Python · ETL · Pipeline |
-| [🔥 Cleaning Orders — PySpark](https://github.com/razanmdr/Data-Engineering) | Data cleaning of e-commerce orders dataset using PySpark | PySpark · Big Data |
-| [📦 Demand Forecasting — PySpark](https://github.com/razanmdr/Data-Engineering) | E-Commerce forecasting model using PySpark | PySpark · ML · Forecasting |
-| [🧱 E-Commerce Data Models — dbt](https://github.com/razanmdr/Data-Engineering) | Transforming raw data into clean, reliable models with dbt | dbt · SQL · Data Modeling |
-| [🚇 London Travel Network — SQL](https://github.com/razanmdr/Data-Engineering) | Analysis of Transport for London data over 12 years | SQL · EDA |
+| [Retail Data Pipeline — Walmart](https://github.com/razanmdr/Data_Eng/tree/main/Building%20a%20Retail%20Data%20Pipeline) | End-to-end data pipeline for E-Commerce analysis at Walmart | Python · SQL · ETL |
+| [ETL Pipeline — Dept. of Energy](https://github.com/razanmdr/Data_Eng/tree/main/Powering%20Data%20for%20the%20Department%20of%20Energy%20-%20Building%20an%20ETL%20Pipeline) | ETL pipeline for U.S. government energy data | Python · ETL · Pipeline |
+| [Cleaning Orders — PySpark](https://github.com/razanmdr/Data_Eng/tree/main/Cleaning%20an%20Orders%20Dataset%20with%20PySpark) | Data cleaning of e-commerce orders dataset using PySpark | PySpark · Big Data |
+| [Demand Forecasting — PySpark](https://github.com/razanmdr/Machine_Learning/tree/main/Building%20a%20Demand%20Forecasting%20Model) | E-Commerce forecasting model using PySpark | PySpark · ML · Forecasting |
+| [Campaign Data — dbt/SQL](https://github.com/razanmdr/Data_Eng/tree/main/Cleaning%20Bank%20Marketing%20Campaign%20Data) | Transforming and cleaning bank marketing campaign data | SQL · Data Modeling |
+| [London Travel Network — SQL](https://github.com/razanmdr/Data_Eng/tree/main/Exploring%20London%27s%20Travel%20Network) | Analysis of Transport for London data over 12 years | SQL · EDA |
 
 #### 🤖 Machine Learning
 
 | Projekt | Beschreibung | Stack |
 |---|---|---|
-| [🔍 Financial Fraud Detection Monitor ⭐](https://github.com/razanmdr/Machine-Learning-Python) | Monitoring & debugging an underperforming fraud detection model | Python · MLOps · Scikit-learn |
-| [🎫 Service Desk Ticket Classifier ⭐](https://github.com/razanmdr/Machine-Learning-Python) | Deep learning for automated support ticket classification | Python · Keras · NLP |
-| [📉 Subscriber Churn Prediction](https://github.com/razanmdr/Machine-Learning-Python) | ML for churn prediction & targeted marketing | Python · Classification |
-| [⚡ Predict Energy Consumption](https://github.com/razanmdr/Machine-Learning-Python) | Regression model for daily power consumption prediction | Python · Regression |
-| [🌡️ Predicting Temperature — London](https://github.com/razanmdr/Machine-Learning-Python) | ML experiment to find the best temperature prediction model | Python · Forecasting |
-| [💬 Sentiment Analysis with ML](https://github.com/razanmdr/Sentiment-Analysis-With-Machine-Learning) | NLP-based sentiment classifier — positive / negative / neutral | Python · NLTK · ML |
+| [Financial Fraud Detection Monitor](https://github.com/razanmdr/Machine_Learning/tree/main/Monitoring%20A%20Financial%20Fraud%20Detection%20Model) | Monitoring & debugging an underperforming fraud detection model | Python · MLOps · Scikit-learn |
+| [Service Desk Ticket Classifier](https://github.com/razanmdr/Machine_Learning/tree/main/Service%20Desk%20Ticket%20Classification%20with%20Deep%20Learning) | Deep learning for automated support ticket classification | Python · Keras · NLP |
+| [Subscriber Churn Prediction](https://github.com/razanmdr/Machine_Learning/tree/main/Combating%20Subscriber%20Churn%20with%20Targeted%20Marketing) | ML for churn prediction & targeted marketing | Python · Classification |
+| [E-Commerce Clothing Classifier](https://github.com/razanmdr/Machine_Learning/tree/main/Building%20an%20E-Commerce%20Clothing%20Classifier) | Image/text classifier for e-commerce clothing categories | Python · Keras · CV |
+| [Predicting Temperature — London](https://github.com/razanmdr/Data_Eng/tree/main/Factors%20that%20Fuel%20Student%20Performance) | ML experiment to find the best temperature prediction model | Python · Forecasting |
+| [Sentiment Analysis with ML](https://github.com/razanmdr/Sentiment-Analysis-With-Machine-Learning) | NLP-based sentiment classifier — positive / negative / neutral | Python · NLTK · ML |
 
 #### 📊 Datenanalyse | Data Analysis
 
 | Projekt | Beschreibung | Stack |
 |---|---|---|
-| [📈 Data Analyst Portfolio](https://github.com/razanmdr/Data-Analyst) | 10+ EDA projects: Nobel Prize, FIFA 21, Netflix, A/B Testing, House Prices & more | Python · Pandas · Matplotlib |
+| [Data Analyst Portfolio](https://github.com/razanmdr/Data-Analyst) | 10+ EDA projects: Nobel Prize, FIFA 21, Netflix, A/B Testing, House Prices & more | Python · Pandas · Matplotlib |
 
 > 💡 Zusätzlich: **Echtzeit-Liefermonitor** bei JENOPTIK AG (SAP HANA · CDS-Views · SAP Analytics Cloud) — siehe [Portfolio](https://razanmdr.framer.website)
 
