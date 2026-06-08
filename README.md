@@ -25,7 +25,7 @@ Data · BI · Quality Engineer — Jena, Deutschland 🇩🇪
 - 💼 Ex-Werkstudent @ **Neue Technologie AG** · **JENOPTIK AG** · **Siemens Energy**
 - 🔬 Offen für **Masterarbeit** im Bereich Data Engineering / BI / ML in Jena
 - 🌍 Sprachen / Languages: 🇮🇩 Bahasa (C2) · 🇩🇪 Deutsch (C1) · 🇬🇧 English (C1)
-- 🌐 Portfolio: [razanmdr.framer.website](https://razanmdr.framer.website)
+- 🌐 Portfolio: [darycv.framer.website](https://darycv.framer.website)
 
 ---
 
