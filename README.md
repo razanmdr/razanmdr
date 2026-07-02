@@ -53,11 +53,11 @@ Data · BI · Quality Engineer — Jena, Deutschland 🇩🇪
  
 | Zeitraum | Unternehmen | Position |
 |---|---|---|
-| 12.2024 – 01.2026 | **Neue Technologie AG** | Application & Software Quality Engineer *(Werkstudent)* |
-| 06.2024 – 09.2024 | **JENOPTIK AG** | Business Intelligence Engineer *(Bachelorand)* |
-| 10.2023 – 05.2024 | **JENOPTIK AG** | IT-Support & Digitalisierung *(Werkstudent)* |
-| 05.2022 – 10.2023 | **Siemens Energy** | Application Management & Software QA *(Werkstudent)* |
-| 04.2021 – 10.2021 | **PT. Halotec Indonesia** | R&D Software Developer *(Praktikant / Intern)* |
+| 12.2024 – 01.2026 | **Neue Technologie AG** | Software-Qualitätssicherungsingenieur *(Werkstudent)* |
+| 06.2024 – 09.2024 | **JENOPTIK AG** | Data Analytics & Business Intelligence *(Bachelorand)* |
+| 10.2023 – 05.2024 | **JENOPTIK AG** | Digitalisierung & IT-Projektmanagement *(Werkstudent)* |
+| 05.2022 – 10.2023 | **Siemens Energy** | IT-Projektmanagement (Einführung & Entwicklung) *(Werkstudent)* |
+| 04.2021 – 10.2021 | **PT. Halotec Indonesia** | Softwareentwickler (Forschung und Entwicklung) *(Praktikant / Intern)* |
  
 ---
  
@@ -67,7 +67,7 @@ Data · BI · Quality Engineer — Jena, Deutschland 🇩🇪
  
 | Projekt | Beschreibung | Stack |
 |---|---|---|
-| [Retail Data Pipeline — Walmart](https://github.com/razanmdr/Data_Eng/tree/main/Building%20a%20Retail%20Data%20Pipeline) | End-to-end data pipeline for E-Commerce analysis at Walmart | Python · SQL · ETL |
+| [Retail Data Pipeline — Walmart](https://github.com/razanmdr/Data_Eng/tree/main/Building%20a%20Retail%20Data%20Pipeline) | End-to-end data pipeline for e-commerce analysis at Walmart | Python · SQL · ETL |
 | [ETL Pipeline — Dept. of Energy](https://github.com/razanmdr/Data_Eng/tree/main/Powering%20Data%20for%20the%20Department%20of%20Energy%20-%20Building%20an%20ETL%20Pipeline) | ETL pipeline for U.S. government energy data | Python · ETL · Pipeline |
 | [Cleaning Orders — PySpark](https://github.com/razanmdr/Data_Eng/tree/main/Cleaning%20an%20Orders%20Dataset%20with%20PySpark) | Data cleaning of e-commerce orders dataset using PySpark | PySpark · Big Data |
 | [Demand Forecasting — PySpark](https://github.com/razanmdr/Machine_Learning/tree/main/Building%20a%20Demand%20Forecasting%20Model) | E-Commerce forecasting model using PySpark | PySpark · ML · Forecasting |
