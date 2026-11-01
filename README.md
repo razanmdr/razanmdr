@@ -13,7 +13,6 @@ Data · BI · Quality Engineer — Jena, Deutschland 🇩🇪
 - 🎓 **M.Sc. E-Commerce** @ Ernst-Abbe-Hochschule Jena *(laufend / ongoing)*
 - 🏆 **B.Sc. Wirtschaftsingenieurwesen** (E-Commerce) @ EAH Jena *(2024, Note: Gut)*
 - 💼 Ex-Werkstudent @ **Neue Technologie AG** · **JENOPTIK AG** · **Siemens Energy**
-- 🔬 Offen für **Masterarbeit** im Bereich Data Engineering / BI / ML in Jena
 - 🌍 Sprachen / Languages: 🇮🇩 Bahasa (C2) · 🇩🇪 Deutsch (C1) · 🇬🇧 English (C1)
 - 🌐 Portfolio: [razanmdr.framer.website](https://razanmdr.framer.website)
 ---
