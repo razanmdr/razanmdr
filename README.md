@@ -53,8 +53,8 @@ Software · Data · KI · Quality Engineer — Jena, Deutschland 🇩🇪
 | Zeitraum | Unternehmen | Position |
 |---|---|---|
 | 12.2024 – 01.2026 | **Neue Technologie AG** | Software-Qualitätssicherungsingenieur *(Werkstudent)* |
-| 06.2024 – 09.2024 | **JENOPTIK AG** | Data Analytics & Business Intelligence *(Bachelorand)* |
-| 10.2023 – 05.2024 | **JENOPTIK AG** | Digitalisierung & IT-Projektmanagement *(Werkstudent)* |
+| 06.2024 – 09.2024 | **JENOPTIK AG** | Business Intelligence *(Bachelorand)* |
+| 10.2023 – 05.2024 | **JENOPTIK AG** | SCM Logistics & Processes *(Werkstudent)* |
 | 05.2022 – 10.2023 | **Siemens Energy** | IT-Projektmanagement (Einführung & Entwicklung) *(Werkstudent)* |
 | 04.2021 – 10.2021 | **PT. Halotec Indonesia** | Softwareentwickler (Forschung und Entwicklung) *(Praktikant / Intern)* |
  
@@ -78,10 +78,9 @@ Software · Data · KI · Quality Engineer — Jena, Deutschland 🇩🇪
 | Projekt | Beschreibung | Stack |
 |---|---|---|
 | [Financial Fraud Detection Monitor](https://github.com/razanmdr/Machine_Learning/tree/main/Monitoring%20A%20Financial%20Fraud%20Detection%20Model) | Monitoring & debugging an underperforming fraud detection model | Python · MLOps · Scikit-learn |
-| [Service Desk Ticket Classifier](https://github.com/razanmdr/Machine_Learning/tree/main/Service%20Desk%20Ticket%20Classification%20with%20Deep%20Learning) | Deep learning for automated support ticket classification | Python · Keras · NLP |
+| [Service Desk Ticket Classifier](https://github.com/razanmdr/Machine_Learning/tree/main/Service%20Desk%20Ticket%20Classification%20with%20Deep%20Learning) | Deep learning for automated support ticket classification | Python · PyTorch · NLP |
 | [Subscriber Churn Prediction](https://github.com/razanmdr/Machine_Learning/tree/main/Combating%20Subscriber%20Churn%20with%20Targeted%20Marketing) | ML for churn prediction & targeted marketing | Python · Classification |
-| [E-Commerce Clothing Classifier](https://github.com/razanmdr/Machine_Learning/tree/main/Building%20an%20E-Commerce%20Clothing%20Classifier) | Image/text classifier for e-commerce clothing categories | Python · Keras · CV |
-| [Predicting Temperature — London](https://github.com/razanmdr/Data_Eng/tree/main/Factors%20that%20Fuel%20Student%20Performance) | ML experiment to find the best temperature prediction model | Python · Forecasting |
+| [E-Commerce Clothing Classifier](https://github.com/razanmdr/Machine_Learning/tree/main/Building%20an%20E-Commerce%20Clothing%20Classifier%20Model%20with%20Keras) | Image/text classifier for e-commerce clothing categories | Python · Keras · CV |
 | [Sentiment Analysis with ML](https://github.com/razanmdr/Sentiment-Analysis-With-Machine-Learning) | NLP-based sentiment classifier — positive / negative / neutral | Python · NLTK · ML |
  
 #### 🧠 KI-Agenten & GenAI
