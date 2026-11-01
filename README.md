@@ -1,6 +1,6 @@
 Hallo, ich bin Dary 👋
  
-Data · BI · Quality Engineer — Jena, Deutschland 🇩🇪
+Software · Data · KI · Quality Engineer — Jena, Deutschland 🇩🇪
  
 ---
  
