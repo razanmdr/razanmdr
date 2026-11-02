@@ -70,7 +70,7 @@ Software · Data · KI · Quality Engineer — Jena, Deutschland 🇩🇪
 | [ETL Pipeline — Dept. of Energy](https://github.com/razanmdr/Data_Eng/tree/main/Powering%20Data%20for%20the%20Department%20of%20Energy%20-%20Building%20an%20ETL%20Pipeline) | ETL pipeline for U.S. government energy data | Python · ETL · Pipeline |
 | [Cleaning Orders — PySpark](https://github.com/razanmdr/Data_Eng/tree/main/Cleaning%20an%20Orders%20Dataset%20with%20PySpark) | Data cleaning of e-commerce orders dataset using PySpark | PySpark · Big Data |
 | [Demand Forecasting — PySpark](https://github.com/razanmdr/Machine_Learning/tree/main/Building%20a%20Demand%20Forecasting%20Model) | E-Commerce forecasting model using PySpark | PySpark · ML · Forecasting |
-| [Campaign Data — dbt/SQL](https://github.com/razanmdr/Data_Eng/tree/main/Cleaning%20Bank%20Marketing%20Campaign%20Data) | Transforming and cleaning bank marketing campaign data | SQL · Data Modeling |
+| [Campaign Data — Pandas](https://github.com/razanmdr/Data_Eng/tree/main/Cleaning%20Bank%20Marketing%20Campaign%20Data) | Transforming and cleaning bank marketing campaign data | Python · Pandas · Data Modeling |
 | [London Travel Network — SQL](https://github.com/razanmdr/Data_Eng/tree/main/Exploring%20London%27s%20Travel%20Network) | Analysis of Transport for London data over 12 years | SQL · EDA |
  
 #### 🤖 Machine Learning
